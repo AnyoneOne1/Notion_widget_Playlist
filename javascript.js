@@ -26,6 +26,7 @@ $(function () {
     "Mother Mother",
     "Vundabar",
     "Imagine Dragons",
+    "Will Wood",
     "El Cuarteto de Nos"
   ];
   const trackNames = [
@@ -40,6 +41,7 @@ $(function () {
     "Get Out the Way",
     "Alien Blues",
     "Gods don't Pray",
+    "Thermodynamic Lawyer",
     "Ya te vas a Mejorar"
   ];
   const albumArtworks = ["_1", "_2", "_3", "_4", "_5", "_6", "_7", "_8", "_9", "_10", "_11", "_12", "_13"];
