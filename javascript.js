@@ -20,7 +20,8 @@ $(function () {
     "Vivinos",
     "Lincoln",
     "I saw the TV glow",
-    "Mindless Self Indulgence"
+    "Mindless Self Indulgence",
+    "Rio Romeo"
   ];
   const trackNames = [
     "Red Armor - EUROMANTIC001",
@@ -28,7 +29,8 @@ $(function () {
     "Paratise - Ivan",
     "Saint Bernard - Lincoln",
     "Anthems for a seventeen year-old girl - yeule",
-    "Lights Out - Mindless Self Indulgence"
+    "Lights Out - Mindless Self Indulgence",
+    "Over & Over - Rio Romeo"
   ];
   const albumArtworks = ["_1", "_2", "_3", "_4", "_5", "_6", "_7", "_8", "_9", "_10", "_11", "_12", "_13"];
   const trackUrl = [
