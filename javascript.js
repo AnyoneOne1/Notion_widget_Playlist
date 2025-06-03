@@ -46,11 +46,19 @@ $(function () {
   ];
   const albumArtworks = ["_1", "_2", "_3", "_4", "_5", "_6", "_7", "_8", "_9", "_10", "_11", "_12", "_13"];
   const trackUrl = [
-    "https://singhimalaya.github.io/Codepen/assets/music/1.mp3",
-    "https://singhimalaya.github.io/Codepen/assets/music/2.mp3",
-    "https://singhimalaya.github.io/Codepen/assets/music/3.mp3",
-    "https://singhimalaya.github.io/Codepen/assets/music/4.mp3",
-    "https://singhimalaya.github.io/Codepen/assets/music/5.mp3"
+    "https://anyoneone1.github.io/Notion_widget_Playlist/1.mp3",
+    "https://anyoneone1.github.io/Notion_widget_Playlist/2.mp3",
+    "https://anyoneone1.github.io/Notion_widget_Playlist/3.mp3",
+    "https://anyoneone1.github.io/Notion_widget_Playlist/4.mp3",
+    "https://anyoneone1.github.io/Notion_widget_Playlist/5.mp3",
+    "https://anyoneone1.github.io/Notion_widget_Playlist/6.mp3",
+    "https://anyoneone1.github.io/Notion_widget_Playlist/7.mp3",
+    "https://anyoneone1.github.io/Notion_widget_Playlist/8.mp3",
+    "https://anyoneone1.github.io/Notion_widget_Playlist/9.mp3",
+    "https://anyoneone1.github.io/Notion_widget_Playlist/10.mp3",
+    "https://anyoneone1.github.io/Notion_widget_Playlist/11.mp3",
+    "https://anyoneone1.github.io/Notion_widget_Playlist/12.mp3",
+    "https://anyoneone1.github.io/Notion_widget_Playlist/13.mp3"
   ];
 
   let bgArtworkUrl,
