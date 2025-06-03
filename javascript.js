@@ -22,17 +22,19 @@ $(function () {
     "I saw the TV glow",
     "Mindless Self Indulgence",
     "Rio Romeo",
-    "Glass Animals"
+    "Glass Animals",
+    "Mother Mother"
   ];
   const trackNames = [
     "Red Armor - EUROMANTIC001",
     "Bounce Funk - SAPFIR Topic",
     "Paratise - Ivan",
     "Saint Bernard - Lincoln",
-    "Anthems for a seventeen year-old girl - yeule",
-    "Lights Out - Mindless Self Indulgence",
-    "Over & Over - Rio Romeo",
-    "Take a Slice - Glass Animals"
+    "Anthems for a Seventeen Year-Old Girl - yeule",
+    "Lights Out",
+    "Over & Over",
+    "Take a Slice",
+    "Get Out the Way"
   ];
   const albumArtworks = ["_1", "_2", "_3", "_4", "_5", "_6", "_7", "_8", "_9", "_10", "_11", "_12", "_13"];
   const trackUrl = [
