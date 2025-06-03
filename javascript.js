@@ -28,7 +28,7 @@ $(function () {
     "Jordan Schor - Home",
     "Martin Garrix - Proxy"
   ];
-  const albumArtworks = ["_1", "_2", "_3", "_4", "_5"];
+  const albumArtworks = ["_1", "_2", "_3", "_4", "_5", "_6", "_7", "_8", "_9", "_10", "_11", "_12", "_13"];
   const trackUrl = [
     "https://singhimalaya.github.io/Codepen/assets/music/1.mp3",
     "https://singhimalaya.github.io/Codepen/assets/music/2.mp3",
