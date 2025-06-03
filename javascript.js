@@ -15,14 +15,14 @@ $(function () {
   const playPreviousTrackButton = $("#play-previous");
   const playNextTrackButton = $("#play-next");
   const albums = [
-    "Me & You",
+    "Niki Istrefi",
     "Dawn",
     "Electro Boy",
     "Home",
     "Proxy (Original Mix)"
   ];
   const trackNames = [
-    "Alex Skrindo - Me & You",
+    "Red Armor - EUROMANTIC001",
     "Skylike - Dawn",
     "Kaaze - Electro Boy",
     "Jordan Schor - Home",
