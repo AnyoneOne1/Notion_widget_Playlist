@@ -1,59 +1,65 @@
-<link rel="stylesheet" href="Style.css">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" crossorigin="anonymous">
-
-<div id="player-bg-artwork"></div>
-<div id="player-bg-layer"></div>
-<div id="player-container">
-  <div id="player">
-    <div id="player-track">
-      <div id="album-name"></div>
-      <div id="track-name"></div>
-      <div id="track-time">
-        <div id="current-time"></div>
-        <div id="track-length"></div>
-      </div>
-      <div id="seek-bar-container">
-        <div id="seek-time"></div>
-        <div id="s-hover"></div>
-        <div id="seek-bar"></div>
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="Style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" crossorigin="anonymous">
+  </head>
+  <body>
+    <div id="player-bg-artwork"></div>
+    <div id="player-bg-layer"></div>
+    <div id="player-container">
+      <div id="player">
+        <div id="player-track">
+          <div id="album-name"></div>
+          <div id="track-name"></div>
+          <div id="track-time">
+            <div id="current-time"></div>
+            <div id="track-length"></div>
+          </div>
+          <div id="seek-bar-container">
+            <div id="seek-time"></div>
+            <div id="s-hover"></div>
+            <div id="seek-bar"></div>
+          </div>
+        </div>
+        <div id="player-content">
+          <div id="album-art">
+            <img src="https://anyoneone1.github.io/Notion_widget_Playlist/1.jpeg" class="active" id="_1" />
+            <img src="https://anyoneone1.github.io/Notion_widget_Playlist/2.jpeg" id="_2" />
+            <img src="https://anyoneone1.github.io/Notion_widget_Playlist/3.jpeg" id="_3" />
+            <img src="https://anyoneone1.github.io/Notion_widget_Playlist/4.jpeg" id="_4" />
+            <img src="https://anyoneone1.github.io/Notion_widget_Playlist/5.jpeg" id="_5" />
+            <img src="https://anyoneone1.github.io/Notion_widget_Playlist/6.jpeg" id="_6" />
+            <img src="https://anyoneone1.github.io/Notion_widget_Playlist/7.jpeg" id="_7" />
+            <img src="https://anyoneone1.github.io/Notion_widget_Playlist/8.jpeg" id="_8" />
+            <img src="https://anyoneone1.github.io/Notion_widget_Playlist/9.jpeg" id="_9" />
+            <img src="https://anyoneone1.github.io/Notion_widget_Playlist/10.jpeg" id="_10" />
+            <img src="https://anyoneone1.github.io/Notion_widget_Playlist/11.jpeg" id="_11" />
+            <img src="https://anyoneone1.github.io/Notion_widget_Playlist/12.jpeg" id="_12" />
+            <img src="https://anyoneone1.github.io/Notion_widget_Playlist/13.jpeg" id="_13" />
+            <div id="buffer-box">Buffering ...</div>
+          </div>
+          <div id="player-controls">
+            <div class="control">
+              <div class="button" id="play-previous">
+                <i class="fas fa-backward"></i>
+              </div>
+            </div>
+            <div class="control">
+              <div class="button" id="play-pause-button">
+                <i class="fas fa-play"></i>
+              </div>
+            </div>
+            <div class="control">
+              <div class="button" id="play-next">
+                <i class="fas fa-forward"></i>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
-    <div id="player-content">
-      <div id="album-art">
-        <img src="https://anyoneone1.github.io/Notion_widget_Playlist/1.jpeg" class="active" id="_1" />
-        <img src="https://anyoneone1.github.io/Notion_widget_Playlist/2.jpeg" id="_2" />
-        <img src="https://anyoneone1.github.io/Notion_widget_Playlist/3.jpeg" id="_3" />
-        <img src="https://anyoneone1.github.io/Notion_widget_Playlist/4.jpeg" id="_4" />
-        <img src="https://anyoneone1.github.io/Notion_widget_Playlist/5.jpeg" id="_5" />
-        <img src="https://anyoneone1.github.io/Notion_widget_Playlist/6.jpeg" id="_6" />
-        <img src="https://anyoneone1.github.io/Notion_widget_Playlist/7.jpeg" id="_7" />
-        <img src="https://anyoneone1.github.io/Notion_widget_Playlist/8.jpeg" id="_8" />
-        <img src="https://anyoneone1.github.io/Notion_widget_Playlist/9.jpeg" id="_9" />
-        <img src="https://anyoneone1.github.io/Notion_widget_Playlist/10.jpeg" id="_10" />
-        <img src="https://anyoneone1.github.io/Notion_widget_Playlist/11.jpeg" id="_11" />
-        <img src="https://anyoneone1.github.io/Notion_widget_Playlist/12.jpeg" id="_12" />
-        <img src="https://anyoneone1.github.io/Notion_widget_Playlist/13.jpeg" id="_13" />
-        <div id="buffer-box">Buffering ...</div>
-      </div>
-      <div id="player-controls">
-        <div class="control">
-          <div class="button" id="play-previous">
-            <i class="fas fa-backward"></i>
-          </div>
-        </div>
-        <div class="control">
-          <div class="button" id="play-pause-button">
-            <i class="fas fa-play"></i>
-          </div>
-        </div>
-        <div class="control">
-          <div class="button" id="play-next">
-            <i class="fas fa-forward"></i>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<script src="javascript.js"></script>
+    
+    <script src="javascript.js"></script>
+  </body>
+</html>
