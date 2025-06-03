@@ -16,15 +16,15 @@ $(function () {
   const playNextTrackButton = $("#play-next");
   const albums = [
     "Niki Istrefi",
-    "Dawn",
-    "Electro Boy",
+    "Slowed",
+    "Vivinos",
     "Home",
     "Proxy (Original Mix)"
   ];
   const trackNames = [
     "Red Armor - EUROMANTIC001",
-    "Skylike - Dawn",
-    "Kaaze - Electro Boy",
+    "Bounce Funk - SAPFIR Topic",
+    "Paratise - Ivan",
     "Jordan Schor - Home",
     "Martin Garrix - Proxy"
   ];
