@@ -19,6 +19,7 @@ $(function () {
     "Slowed",
     "Vivinos",
     "Lincoln",
+    "I saw the TV glow",
     "Mindless Self Indulgence"
   ];
   const trackNames = [
@@ -26,6 +27,7 @@ $(function () {
     "Bounce Funk - SAPFIR Topic",
     "Paratise - Ivan",
     "Saint Bernard - Lincoln",
+    "Anthems for a seventeen year-old girl - yeule",
     "Lights Out - Mindless Self Indulgence"
   ];
   const albumArtworks = ["_1", "_2", "_3", "_4", "_5", "_6", "_7", "_8", "_9", "_10", "_11", "_12", "_13"];
