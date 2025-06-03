@@ -34,7 +34,7 @@ $(function () {
     "Bounce Funk - SAPFIR Topic",
     "Paratise - Ivan",
     "Saint Bernard - Lincoln",
-    "Anthems for a 17 YOld Girl - yeule",
+    "Anthems 17 YOld Girl - yeule",
     "Lights Out",
     "Over & Over",
     "Take a Slice",
@@ -46,19 +46,19 @@ $(function () {
   ];
   const albumArtworks = ["_1", "_2", "_3", "_4", "_5", "_6", "_7", "_8", "_9", "_10", "_11", "_12", "_13"];
   const trackUrl = [
-    "https://anyoneone1.github.io/Notion_widget_Playlist/1.mp3",
-    "https://anyoneone1.github.io/Notion_widget_Playlist/2.mp3",
-    "https://anyoneone1.github.io/Notion_widget_Playlist/3.mp3",
-    "https://anyoneone1.github.io/Notion_widget_Playlist/4.mp3",
-    "https://anyoneone1.github.io/Notion_widget_Playlist/5.mp3",
-    "https://anyoneone1.github.io/Notion_widget_Playlist/6.mp3",
-    "https://anyoneone1.github.io/Notion_widget_Playlist/7.mp3",
-    "https://anyoneone1.github.io/Notion_widget_Playlist/8.mp3",
-    "https://anyoneone1.github.io/Notion_widget_Playlist/9.mp3",
-    "https://anyoneone1.github.io/Notion_widget_Playlist/10.mp3",
-    "https://anyoneone1.github.io/Notion_widget_Playlist/11.mp3",
-    "https://anyoneone1.github.io/Notion_widget_Playlist/12.mp3",
-    "https://anyoneone1.github.io/Notion_widget_Playlist/13.mp3"
+    "https://anyoneone1.github.io/Notion_widget_Playlist/assets/video/1.mp3",
+    "https://anyoneone1.github.io/Notion_widget_Playlist/assets/video/2.mp3",
+    "https://anyoneone1.github.io/Notion_widget_Playlist/assets/video/3.mp3",
+    "https://anyoneone1.github.io/Notion_widget_Playlist/assets/video/4.mp3",
+    "https://anyoneone1.github.io/Notion_widget_Playlist/assets/video/5.mp3",
+    "https://anyoneone1.github.io/Notion_widget_Playlist/assets/video/6.mp3",
+    "https://anyoneone1.github.io/Notion_widget_Playlist/assets/video/7.mp3",
+    "https://anyoneone1.github.io/Notion_widget_Playlist/assets/video/8.mp3",
+    "https://anyoneone1.github.io/Notion_widget_Playlist/assets/video/9.mp3",
+    "https://anyoneone1.github.io/Notion_widget_Playlist/assets/video/10.mp3",
+    "https://anyoneone1.github.io/Notion_widget_Playlist/assets/video/11.mp3",
+    "https://anyoneone1.github.io/Notion_widget_Playlist/assets/video/12.mp3",
+    "https://anyoneone1.github.io/Notion_widget_Playlist/assets/video/13.mp3"
   ];
 
   let bgArtworkUrl,
