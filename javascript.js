@@ -24,7 +24,8 @@ $(function () {
     "Rio Romeo",
     "Glass Animals",
     "Mother Mother",
-    "Vundabar"
+    "Vundabar",
+    "Imagine Dragons"
   ];
   const trackNames = [
     "Red Armor - EUROMANTIC001",
@@ -36,7 +37,8 @@ $(function () {
     "Over & Over",
     "Take a Slice",
     "Get Out the Way",
-    "Alien Blues"
+    "Alien Blues",
+    "Gods don't Pray"
   ];
   const albumArtworks = ["_1", "_2", "_3", "_4", "_5", "_6", "_7", "_8", "_9", "_10", "_11", "_12", "_13"];
   const trackUrl = [
