@@ -7,7 +7,7 @@
 
 body {
   margin: 0;
-  background-color: #f1f9f9;
+  background-color: #FAE5FF;
 }
 *:focus {
   outline: none;
@@ -15,7 +15,7 @@ body {
 
 body {
   margin: 0;
-  background-color: #ffeff5;
+  background-color: #FAE5FF;
 }
 
 #player-container {
@@ -49,7 +49,7 @@ body {
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: #fff;
+  background-color: #FAE5FF;
   opacity: 0.5;
   z-index: 2;
 }
@@ -66,7 +66,7 @@ body {
   right: 15px;
   left: 15px;
   padding: 13px 22px 10px 184px;
-  background-color: #fff7f7;
+  background-color: #FAE5FF;
   border-radius: 15px 15px 0 0;
   transition: 0.3s ease top;
   z-index: 1;
@@ -77,7 +77,7 @@ body {
 }
 
 #album-name {
-  color: #54576f;
+  color: #9C5FAA;
   font-size: 17px;
   font-weight: bold;
 }
@@ -113,7 +113,7 @@ body {
 
 #track-time.active #current-time,
 #track-time.active #track-length {
-  color: #f86d92;
+  color: #76208A;
   background-color: transparent;
 }
 
@@ -125,14 +125,14 @@ body {
 }
 
 #seek-bar-container {
-  background-color: #ffe8ee;
+  background-color: #76208A;
   cursor: pointer;
 }
 
 #seek-time {
   position: absolute;
   top: -29px;
-  color: #fff;
+  color: #76208A;
   font-size: 12px;
   white-space: pre;
   padding: 5px 6px;
@@ -151,7 +151,7 @@ body {
 
 #seek-time,
 #s-hover {
-  background-color: #3b3d50;
+  background-color: #76208A;
 }
 
 #seek-bar {
@@ -161,7 +161,7 @@ body {
   bottom: 0;
   left: 0;
   width: 0;
-  background-color: #fd6d94;
+  background-color: #76208A;
   transition: 0.2s ease width;
   z-index: 1;
 }
@@ -169,7 +169,7 @@ body {
 #player-content {
   position: relative;
   height: 100%;
-  background-color: #fff;
+  background-color: #FAE5FF;
   box-shadow: 0 30px 80px #656565;
   border-radius: 15px;
   z-index: 2;
@@ -183,7 +183,7 @@ body {
   margin-left: 40px;
   transform: rotateZ(0);
   transition: 0.3s ease all;
-  box-shadow: 0 0 0 10px #fff;
+  box-shadow: 0 0 0 10px ##FAE5FF;
   border-radius: 50%;
   overflow: hidden;
 }
