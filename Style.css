@@ -125,7 +125,7 @@ body {
 }
 
 #seek-bar-container {
-  background-color: #76208A;
+  background-color: #9C5FAA;
   cursor: pointer;
 }
 
@@ -169,7 +169,7 @@ body {
 #player-content {
   position: relative;
   height: 100%;
-  background-color: #FAE5FF;
+  background-color: #fff;
   box-shadow: 0 30px 80px #656565;
   border-radius: 15px;
   z-index: 2;
