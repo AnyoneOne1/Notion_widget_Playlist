@@ -19,14 +19,14 @@ $(function () {
     "Slowed",
     "Vivinos",
     "Lincoln",
-    "Proxy (Original Mix)"
+    "Mindless Self Indulgence"
   ];
   const trackNames = [
     "Red Armor - EUROMANTIC001",
     "Bounce Funk - SAPFIR Topic",
     "Paratise - Ivan",
     "Saint Bernard - Lincoln",
-    "Martin Garrix - Proxy"
+    "Lights Out - Mindless Self Indulgence"
   ];
   const albumArtworks = ["_1", "_2", "_3", "_4", "_5", "_6", "_7", "_8", "_9", "_10", "_11", "_12", "_13"];
   const trackUrl = [
