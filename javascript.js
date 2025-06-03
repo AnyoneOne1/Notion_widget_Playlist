@@ -23,7 +23,8 @@ $(function () {
     "Mindless Self Indulgence",
     "Rio Romeo",
     "Glass Animals",
-    "Mother Mother"
+    "Mother Mother",
+    "Vundabar"
   ];
   const trackNames = [
     "Red Armor - EUROMANTIC001",
@@ -34,7 +35,8 @@ $(function () {
     "Lights Out",
     "Over & Over",
     "Take a Slice",
-    "Get Out the Way"
+    "Get Out the Way",
+    "Alien Blues"
   ];
   const albumArtworks = ["_1", "_2", "_3", "_4", "_5", "_6", "_7", "_8", "_9", "_10", "_11", "_12", "_13"];
   const trackUrl = [
